@@ -1,2 +1,2 @@
-# sk-pengajaran
-sk pengajaran
+# appendix
+for bkd and kepangkatan
