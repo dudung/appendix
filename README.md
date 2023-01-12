@@ -1,2 +1,2 @@
 # appendix
-for bkd and kepangkatan
+for bkd und kepangkatan
